@@ -1,0 +1,20 @@
+{
+  "name": "cnnd_xkey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elon7788/cnnd_xkey"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "7_xid": "^1.0.0",
+    "8_xid": "^1.0.0"
+  }
+}
